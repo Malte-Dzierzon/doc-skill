@@ -6,7 +6,7 @@
 
 ![](https://img.shields.io/github/last-commit/Malte-Dzierzon/doc-skill?style=flat-square&color=16242d&labelColor=070e15)
 ![](https://img.shields.io/badge/skill-agent--ready-0e0e43?style=flat-square&labelColor=070e15)
-![](https://img.shields.io/badge/docs-weft--style-16242d?style=flat-square&labelColor=070e15)
+![](https://img.shields.io/badge/docs-minimalistic-16242d?style=flat-square&labelColor=070e15)
 
 </div>
 
